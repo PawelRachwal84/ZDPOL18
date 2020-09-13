@@ -1,21 +1,3 @@
-Czym jest przypadek testowy? - to zbiór danych wejściowych, wstępnych warunków wykonania, 
-oczekiwanych rezultatów i końcowych kryteriów wykonania 
-
-Czym jest warunek testowy? - to element lub zdarzenie modułu lub systemu, 
-który może być zweryfikowany przez jeden lub więcej przypadków testowych
-
-
-
-Proces testowy.
-Planowanie testów;
-monitorowanie testów i nadzór nad testami;
-analiza testów;
-projektowanie testów;
-implementacja testów;
-wykonywanie testów;
-ukończenie testów.
-
-
 ZT 1.0 : Weryfikacja pole Imię 
 ST 1.1: Weryfikacja pole imię – litery
 PT 1.1.1: wpisanie imienia składających się z samych liter.
@@ -53,5 +35,10 @@ PT 1.4.3: wpisanie w pole imię pisane cyrylicą
 
 
 
+Można wyróżnić trzy podstawowe podziały narzędzi testerskich
+Podział narzędzi ze względu na zastosowanie.
+Podział narzędzi ze względu na rodzaj licencji.
+Podział narzędzi ze względu na sposób instalacji.
 
-przypadek testowy: Zestaw warunków wstępnych, danych wejściowych, akcji (w stosownych przypadkach), oczekiwanych rezultatów i warunków końcowych opracowany w oparciu o warunki testowe.
+
+fdsfdsfdfdsffsdfdsfsd

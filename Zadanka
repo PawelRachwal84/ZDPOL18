@@ -1,6 +1,7 @@
 PYTANIE 1
 Które z poniższych zadań jest podstawowym działaniem wykonywanym na etapie analizy
 testów zgodnie z procesem testowym?
+
 a) Zidentyfikowanie wszelkich niezbędnych narzędzi i elementów infrastruktury. i wygladu.
 b) Utworzenie zestawów testów z procedur testowych.
 c) Przeanalizowanie zdobytych doświadczeń w celu udoskonalenia procesu.
@@ -21,7 +22,8 @@ Krótkie podsumowanie: Po wybraniu kawy z mlekiem czas przyrządzania napoju jes
 zbyt długi, a temperatura jest zbyt niska (poniżej 40 °C).
 Oczekiwany rezultat: Kawa powinna mieć standardową temperaturę (około 75°C).
 Poziom ryzyka: Średnie.
-Priorytet: Normalny. oraz szybki
+Priorytet: Normalny.
+
 
 Jaką cenną informację pominięto w powyższym zgłoszeniu defektu?
 a) Rzeczywisty rezultat testu.
@@ -69,3 +71,4 @@ c) Potrzeba ustalenia, czy narzędzie zapewnia wymaganą funkcjonalność i nie 
 funkcjonalności dotychczasowych narzędzi testowych.
 d) Konieczność dokonania oceny dostawcy narzędzia pod względem oferowanych
 szkoleń i pomocy technicznej. 
+
