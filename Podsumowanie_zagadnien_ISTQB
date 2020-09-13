@@ -4,6 +4,8 @@ oczekiwanych rezultatów i końcowych kryteriów wykonania
 Czym jest warunek testowy? - to element lub zdarzenie modułu lub systemu, 
 który może być zweryfikowany przez jeden lub więcej przypadków testowych
 
+
+
 Proces testowy.
 Planowanie testów;
 monitorowanie testów i nadzór nad testami;
@@ -21,3 +23,4 @@ Podział narzędzi ze względu na zastosowanie.
 Podział narzędzi ze względu na rodzaj licencji.
 Podział narzędzi ze względu na sposób instalacji.
 
+przypadek testowy: Zestaw warunków wstępnych, danych wejściowych, akcji (w stosownych przypadkach), oczekiwanych rezultatów i warunków końcowych opracowany w oparciu o warunki testowe.
