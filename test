@@ -1,0 +1,7 @@
+1. testowanie jest zależne od kontekstu: inaczej testujemy oprogramowanie rządowe a inaczej sklep internetowy
+2. testowanie ujawnia usterki: nawet jeśli usterki nie zostaną odnalezione nie jest to dowód poprawności działania oprogramowania (obalenie mitu)
+3. wczesne testowanie: działania związane z cyklem życia oprogramowania, powinny się zacząć jak najwcześniej
+4. kumulowanie się błędów (zasada Pareto) : 20% systemu może wygenerować 80% występujących błędów
+5. gruntowne testowanie nie jest możliwe: przetestowanie wszystkiego (kombinacji wejść i wyjść warunków wstępnych) nie jest możliwe
+6. paradoks pestycydów: wielokrotne powtarzanie tych samych testów na tych samych PT powoduje obniżenie ilości znalezionych błędów
+7. mylne przekonanie o braku występowania błędów: mimo wykonania bardzo dużej ilości testów nie odnaleziono błędów (dodatkowo: efekt aureoli, efekt autorytetu)
