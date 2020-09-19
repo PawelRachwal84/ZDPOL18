@@ -1,9 +1,7 @@
 PYTANIE 1
 Które z poniższych zadań jest podstawowym działaniem wykonywanym na etapie analizy
 testów zgodnie z procesem testowym?
-a) Zidentyfikowanie wszelkich niezbędnych narzędzi i elementów infrastruktury.
-b) Utworzenie zestawów testów z procedur testowych.
-c) Przeanalizowanie zdobytych doświadczeń w celu udoskonalenia procesu.
+
 d) Dokonanie oceny podstawy testów pod kątem testowalności.
 
 PYTANIE 2
@@ -25,16 +23,11 @@ Priorytet: Normalny.
 
 Jaką cenną informację pominięto w powyższym zgłoszeniu defektu?
 a) Rzeczywisty rezultat testu.
-b) Dane identyfikujące testowany ekspres.
-c) Status defektu.
-d) Pomysły dotyczące usprawnienia przypadku testowego.
 
 PYTANIE 3
 Która z poniższych korzyści może NAJPRAWDOPODOBNIEJ wynikać z automatyzacji
 testowania?
-a) Łatwość tworzenia testów regresji.
-b) Łatwość zapewnienia kontroli wersji w odniesieniu do zasobów testowych.
-c) Łatwość projektowania testów na potrzeby testowania zabezpieczeń.
+
 d) Łatwość wykonywania testów regresji. 
 
 
@@ -50,9 +43,6 @@ B. Narzędzia do zarządzania konfiguracją.
 C. Narzędzia wspomagające przegląd.
 D. Narzędzia do testowania przeciążającego.
 
-a) 1A, 2B, 3D, 4C
-b) 1B, 2C, 3D, 4A
-c) 1A, 2C, 3D, 4B
 d) 1B, 2C, 3A, 4D 
 
 
@@ -60,13 +50,7 @@ PYTANIE 5
 Która z poniższych odpowiedzi zawiera NAJBARDZIEJ PRAWDOPODOBNE uzasadnienie
 przeprowadzenia projektu pilotażowego w związku z wdrożeniem w organizacji nowego
 narzędzia?
-a) Konieczność ustalenia, na ile dane narzędzie jest dopasowane do istniejących
-procesów i praktyk, oraz wskazania niezbędnych zmian.
-b) Konieczność dokonania oceny umiejętności w zakresie automatyzacji testowania oraz
-potrzeb w zakresie szkoleń, mentoringu i coachingu testerów, którzy będą używać
-tego narzędzia.
+
 c) Potrzeba ustalenia, czy narzędzie zapewnia wymaganą funkcjonalność i nie powiela
 funkcjonalności dotychczasowych narzędzi testowych.
-d) Konieczność dokonania oceny dostawcy narzędzia pod względem oferowanych
-szkoleń i pomocy technicznej. 
 
